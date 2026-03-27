@@ -1,7 +1,7 @@
 # Hi 👋, I'm Lalit Yadav
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Electronics+%26+Computer+Technology+Student;Interested+in+Data+Management+and+AI+Systems;Building+Projects+with+Python%2C+Automation+and+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+AI+%7C+IoT+Developer;Electronics+%26+Computer+Technology+Student;Building+Data-Driven+and+Intelligent+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,40 +18,56 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Student in **Electronics & Computer Technology**
-- 📊 Interested in **Data Management, Data Analysis, and AI Systems**
-- ⚡ Passionate about **Electronics + Software Integration**
-- 🤖 Building projects using **Python, AI APIs, and Automation**
-- 📚 Exploring technologies in **AI, Embedded Systems, and Intelligent Applications**
+* 🎓 B.Tech in **Electronics & Computer Technology (VIT Chennai)**
+* 📊 Aspiring **Data Analyst & AI Developer**
+* 🤖 Building **AI, IoT & Data-driven applications**
+* 📈 Experienced in analyzing **sensor & structured data (5000+ records)**
+* ⚡ Passionate about **Electronics + Software + Data Integration**
+
+---
+
+## 💼 Experience
+
+### 🏢 Intern Engineer – L&T Edutech (May 2025 – July 2025)
+
+* 🔧 Debugged IoT firmware & reduced issues by **15%**
+* 📊 Built scripts for **sensor data analysis & anomaly detection**
+* 🤝 Improved system performance & reliability through team collaboration
+* 📌 Enhanced project delivery efficiency by **15%**
 
 ---
 
 ## 🛠 Technical Skills
 
-### Languages
+### 👨‍💻 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,mysql" />
 </p>
 
-### Tools & Platforms
+### ⚙️ Tools & Platforms
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,linux" />
 </p>
 
-### Libraries / Frameworks
+### 📊 Libraries / Frameworks
+
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-E34A33?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/SpeechRecognition-4285F4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pyttsx3-0A192F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge" />
 </p>
 
-### Domains
-- Data Management
-- Artificial Intelligence
-- Automation Systems
-- Embedded Systems
+### 🌐 Domains
+
+* Data Analysis
+* Machine Learning
+* IoT Systems
+* Embedded Systems
 
 ---
 
@@ -61,34 +77,25 @@
 <tr>
 
 <td align="center" width="33%">
-  <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="72" alt="Jarvis"/>
+  <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="72"/>
   <h3>JARVIS</h3>
-  <p>AI assistant for Windows using Python, speech recognition, text-to-speech, and automation workflows.</p>
+  <p>Voice-controlled AI assistant using Python with automation, speech recognition & real-time interaction.</p>
 </td>
 
 <td align="center" width="33%">
-  <img src="https://img.icons8.com/color/96/hospital-room.png" width="72" alt="Hospease"/>
+  <img src="https://img.icons8.com/color/96/hospital-room.png" width="72"/>
   <h3>Hospease</h3>
-  <p>Hospital management system for handling patient records, appointments, and healthcare data efficiently.</p>
+  <p>Hospital management system handling 1000+ records with real-time Firebase database integration.</p>
 </td>
 
 <td align="center" width="33%">
-  <img src="https://img.icons8.com/color/96/health-graph.png" width="72" alt="Health Tracker"/>
-  <h3>Health Tracker</h3>
-  <p>Health and fitness tracking app focused on activity monitoring, nutrition data, and analytics.</p>
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/96/external-fitness-tracker-fitness-and-healthy-living-flaticons-flat-flat-icons.png" width="72"/>
+  <h3>NutriBand</h3>
+  <p>AI-based IoT fitness tracker analyzing 5000+ sensor data points with 85% ML prediction accuracy.</p>
 </td>
 
 </tr>
 </table>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalitydv12&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitydv12&layout=compact&theme=default" height="165" />
-</p>
 
 ---
 
@@ -106,5 +113,5 @@
 ---
 
 <p align="center">
-  <i>“Building intelligent systems that combine electronics, software, and data.”</i>
+  <i>Turning data into insights and ideas into intelligent systems 🚀</i>
 </p>
